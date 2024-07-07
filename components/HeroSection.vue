@@ -153,15 +153,10 @@
                   </div>
                 </div>
               </div>
-
-
-
             </div>
           </div>
-
         </div>
     </div>
-   
   </section>
 </template>
 
@@ -173,7 +168,7 @@ export default {
 <style scoped>
 .hero {
   text-align: center;
-  padding: 100px 0;
+  padding: 112px;
   background: linear-gradient(50deg, #393b50, #5383d5);
 }
 </style>

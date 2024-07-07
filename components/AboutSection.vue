@@ -3,7 +3,7 @@
     <h2>About Me</h2>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 
-    <div class="card">
+    <div class="card mt-5">
   <div class="card-header">
     Quote
   </div>
